@@ -1,5 +1,3 @@
-# Welcome to Programmers Society Hub
-
 # Welcome to Programmers Society Hub 🚀
 
 ## Introduction 🌟
