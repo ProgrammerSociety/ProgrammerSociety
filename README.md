@@ -18,12 +18,13 @@ Our vision is to create a dynamic and inclusive environment where programmers of
 4. **Spread the Word:** Help us grow our community by sharing Programmers Society with your friends, colleagues, and anyone else who loves coding.
 
 ## Code of Conduct ⚖️
-At Programmers Society, we believe in creating a respectful and inclusive environment for all members. Please review our [Code of Conduct](link-to-code-of-conduct) to understand our expectations for behavior and interactions within our community.
+At Programmers Society, we believe in creating a respectful and inclusive environment for all members. Please review our [Code of Conduct](https://github.com/ProgrammerSociety/code-of-conduct) to understand our expectations for behavior and interactions within our community.
 
 ## Contact Us 📧
-If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact the Programmers Society team [here](link-to-contact).
+If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact the Programmers Society team [here](https://wa.me/+27721370443).
 
 ## Let's Code Together! 🌐
-Join us on this exciting journey of collaboration, learning, and innovation. Together, we can make a positive impact in the world of programming. Happy coding!
+Join us on this exciting journey of collaboration, learning, and innovation. 
+Together, we can make a positive impact in the world of programming. **Happy coding!**
 
 
